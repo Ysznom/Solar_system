@@ -1,0 +1,5 @@
+# Symulacja N-Ciałowa Układu Słonecznego — zależności Python
+# Instalacja: pip install -r requirements.txt
+
+pygame>=2.5.0
+numpy>=1.24.0
